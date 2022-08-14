@@ -4,3 +4,7 @@ export function formatCurrency(value: number) {
     currency: 'BRL'
   }).format(value);
 }
+
+export function formatDate(date: string) {
+  return new Intl.DateTimeFormat('pt-BR').format(new Date(date));
+}

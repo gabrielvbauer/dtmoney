@@ -1,5 +1,5 @@
 import { useTransactions } from "../../hooks/useTransactions";
-import { formatCurrency } from "../../utils/utils";
+import { formatCurrency, formatDate } from "../../utils/utils";
 
 import { Container } from "./styles";
 
@@ -26,7 +26,7 @@ export function TransactionTable() {
 								{formatCurrency(transaction.amount)}
 							</td>
 							<td>{transaction.category}</td>
-							<td>{new Intl.DateTimeFormat('pt-BR').format(new Date(transaction.createdAt))}</td>
+							<td>{formatDate(transaction.createdAt)}</td>
 						</tr>
 					))}
 				</tbody>
