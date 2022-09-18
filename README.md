@@ -11,7 +11,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="dtmoney" title="#dtmoney" src="./assets/banner.png" />
+    <img alt="dtmoney" title="#dtmoney" src="./src/assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -65,9 +65,9 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="dtmoney" title="#dtmoney" src="./assets/inicio.png" width="400px">
+  <img alt="dtmoney" title="#dtmoney" src="./src/assets/nova-transacao.png" width="400px">
 
-  <img alt="dtmoney" title="#dtmoney" src="./assets/nova-transacao.png" width="400px">
+  <img alt="dtmoney" title="#dtmoney" src="./src/assets/inicio.png" width="400px">
 </p>
 
 ---
