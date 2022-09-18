@@ -11,7 +11,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="dtmoney" title="#dtmoney" src="./src/assets/banner.png" />
+    <img alt="dtmoney" title="#dtmoney" src="./src/assets/banner-en.png" />
 </h1>
 
 <h4 align="center"> 
@@ -127,7 +127,7 @@ The following technologies were used to build the application:
 
 ## 📝 License
 
-This project is under [MIT](./LICENSE) License.
+This project is under [MIT License](./LICENSE).
 
 ---
 
